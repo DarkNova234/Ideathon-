@@ -1,0 +1,6 @@
+{
+  "name": "StraySafe",
+  "description": "Mobile-first stray animal rescue and vaccination coordination platform connecting citizens, volunteers, clinics, and NGOs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
